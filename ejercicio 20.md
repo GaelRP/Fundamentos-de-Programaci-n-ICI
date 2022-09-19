@@ -4,7 +4,7 @@
 #### 1.1 analisis 
 proceso para asignar variable, salida de datos para dar instrucciones, entrada para guardar el numero que pedimos, condicional para verficar si termino o no (por si colocaba 0) condicional para verificar si es mayor o menor a 0 y procesos para aumetar en conteo de + o -, dependiendo de si es mayor a 0 o no, asi haste que pongan 0 y termine con una salida de datos diciendo el conteo de + y -, fin
 #### 1.2 Diagrama de flujo de datos
-https://postimg.cc/zVBjyMBy
+https://postimg.cc/SYzXdz8y
 #### 1.3 prueba de escritorio
 |entrada|proceso|salida|
 |------------|-------------|----------|
